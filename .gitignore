@@ -1,0 +1,11 @@
+Steps.text
+__init__.py
+data_reader.py
+preprocessing.py
+requirements.txt
+setup.py
+__pycache__/data_reader.cpython-311.pyc
+tyre_data_reader.egg-info/dependency_links.txt
+tyre_data_reader.egg-info/PKG-INFO
+tyre_data_reader.egg-info/SOURCES.txt
+tyre_data_reader.egg-info/top_level.txt
